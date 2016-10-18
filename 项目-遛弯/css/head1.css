@@ -1,0 +1,97 @@
+.clear
+{
+	clear:both;
+	height:0;
+	overflow:hidden;
+}
+.head
+{
+	border-bottom:4px solid #176fbb;
+}
+.head
+{
+	border-bottom:4px solid #176fbb;	
+}
+.h1
+{
+	width:1000px;
+	margin:0 auto;	
+	background:url(../img/logo.png) 8px 6px no-repeat;
+	overflow:hidden;
+}
+.sp
+{
+	margin-top:15px;
+	text-align:right;
+	margin-right:47px;
+	position:relative;
+}
+.dht
+{
+	vertical-align:middle;
+}
+.dh
+{
+	margin-left:10px;
+	font:14px "微软雅黑";
+	color:#ffa000;
+}
+.aa
+{
+	font:14px "微软雅黑";
+	color:#505050;
+	text-decoration:none;
+	margin-left:15px;
+}
+.xlt
+{
+	vertical-align:middle;
+	margin-left:15px;
+}
+#xl
+{
+	margin-left:7px;
+}
+.ip1,.ip2
+{
+	border:0;
+}
+.sp .ip1
+{
+	width:152px;
+	height:25px;
+	border:1px solid #3c3c3c;
+	margin-left:15px;
+}
+.sp .ip2
+{
+	width:27px;
+	height:27px;
+	border:1px solid #3c3c3c;
+	background:url(../img/sousou.png) center center no-repeat;
+	position:absolute;
+	left:952px;
+	top:0px;
+}
+.sp1
+{
+	margin-left:197px;
+	margin-top:30px;
+	margin-bottom:8px;
+	font:18px "微软雅黑";
+	color:#3c3c3c;
+	word-spacing:40px;
+}
+.banner,.sy,.dq,.jg,.qb,.fx
+{
+	text-decoration:none;
+	color:#3c3c3c;
+}
+.banner:hover
+{
+	color:#176fbb;
+}
+#ziding
+{
+	color:#176fbb;
+}

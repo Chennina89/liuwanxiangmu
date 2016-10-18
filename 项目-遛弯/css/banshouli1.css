@@ -1,0 +1,439 @@
+.all{
+	/*width:2000px;*/
+/*	height:928px;*/
+	/*background:burlywood;*/
+}
+/*top-style*/
+.top{
+	/*width:2000px;*/
+	/*height:115px;*/
+	border-bottom:4px solid #176fbb;
+	overflow:hidden;
+}
+/*top-middle-style*/
+.top-middle{
+/*	height:115px;*/
+	width:1002px;
+/*	background:blanchedalmond;*/
+	font-size:14px;
+}
+.top-middle, .cont-middle, .foot-middle{
+	margin:0 auto;
+}
+.m-logo{
+	float:left;
+	padding:14px 0 0 10px;
+	color:#3c3c3c;
+}
+.m-login{
+	float:right;
+	color:#3c3c3c;
+	padding:9px 20px 0 0;
+}
+.m-login img{
+	vertical-align:middle;
+	padding-left:6px
+}
+.m-login .xingli{
+	padding-left:10px;
+}
+.m-login .d1{
+	padding:0 10px 0 10px;
+	border-left:1px solid #3c3c3c;
+	
+}
+.m-login input{
+	width:152px;
+	height:26px;
+	
+}
+.search{
+	display:block;
+	float:right;
+	height:28px;
+	width:28px;
+	background:white;
+	border:1px solid #3c3c3c;
+	border-bottom-right-radius:5px;
+	border-top-right-radius:5px ;
+}
+.search img{
+	/*vertical-align:bottom;*/
+	padding-top:4px;
+}
+.d2{
+	border-right:1px solid #3c3c3c;
+}
+.s1{
+	color:#ffa000;
+	/*font-size:14px;*/
+}
+.m-bottom{
+	float:left;
+	height:20px;
+	width:670px;
+	margin-top:50px;
+	margin-left:56px;
+	margin-bottom:6px;
+}
+.nav ul li a{
+	padding-left:36px;
+	font-size:18px;
+}
+.nav ul li a:hover{
+	font-weight:bold;
+	color:#176fbb;
+	
+}
+.nav, .m-bottom img{
+	float:left;
+}
+.nav ul li{
+	display:inline;
+}
+/*cont-style*/
+.cont{
+	/*width:2000px;*/
+/*	height:1156px;*/
+	/*background:paleturquoise;*/
+	overflow:hidden;
+	margin-bottom:30px;
+	height:1144px;
+}
+.cont-top1{
+	height:55px;
+	/*width:2000px;*/
+}
+.cont-middle{
+	width:1000px;
+	height:55px;
+	margin:0 auto;
+	line-height:55px;
+}
+.cont-middle a:hover{
+	font-weight:bold;
+	color:#ffa000;
+}
+.cont-middle a{
+	font-size:14px;
+}
+.cont-top2{
+	/*width:2000px;*/
+	height:350px;
+	background:url(../img/hebing.png) no-repeat;
+}
+.hb-middle{
+	height:350px;
+	width:1000px;
+	margin:0 auto;
+	/*background:paleturquoise;*/
+	overflow:hidden;
+}
+.hb-lef{
+	width:455px;
+	height:350px;
+	/*background:pink;*/
+	float:left;
+}
+.hb1{
+	border:1px solid white;
+	margin-top:50px;
+	height:62px;
+	width:242px;
+	color:white;
+	font-size:43.62px;
+	line-height:62px;
+	text-align:center;	
+}
+.hb{
+	height:95px;
+	width:242px;
+	text-align:center;
+	line-height:27px;
+	padding-top:16px;
+	overflow:hidden;
+}
+.hb p{
+	color:white;
+	font-size:18px;
+}
+.hb-rig{
+	width:545px;
+	height:350px;
+	/*background:palegoldenrod;*/
+	float:left;
+	position:relative;
+}
+.hb-r1{
+	border-radius:84px;
+	height:161px;
+	width:161px;
+	border-color:white;
+	float:left;
+	border:2px solid white;
+	position:absolute;
+}
+.rig1{
+	
+	margin-top:4px;
+	margin-left:90px;
+	background:url(../img/hb1.png);
+}
+.rig2{
+	margin-top:128px;
+	margin-left:10px;
+background:url(../img/hb2.png);
+	}
+.rig3{
+	background:url(../img/hb3.png);
+	margin-top:178px;
+	margin-left:132px;
+}
+.cont-bottom{
+	overflow:hidden;
+	margin:0 auto;
+	height:710px;
+	width:1000px;
+	border-bottom:1px solid #898989;
+	/*background:greenyellow;*/
+}
+
+.b{
+	/*height:97px;*/
+	padding-top:30px;
+	width:1000px;
+	text-align:center;
+}
+.b1{
+	color:#cc0000;
+	font-size:30px;
+	padding-left:25px;
+}
+
+.b img{
+	vertical-align:bottom;
+}
+.b-left{
+	height:540px;
+	width:483px;
+	float:left;
+	padding-top:30px;
+	overflow:hidden;
+}
+.l1{
+	overflow:hidden;
+	width:484px;
+	height:158px;
+	/*border:1px solid palevioletred;*/
+}
+.l1-i{
+	width:226px;
+	height:158px;
+	float:left;
+}
+.l1-i img{
+	width:226px;
+	height:158px;
+}
+.l2{
+	margin-top:30px;
+}
+.lr{
+	float:right;
+	height:158px;
+	width:258px;
+	/*border:1px solid palevioletred;*/
+	background-color:#f2f1f1;
+}
+.lr-p1{
+	font-size:16px;
+	color:#3d3d3d;
+	padding-top:20px;
+	padding-left:20px;
+	font-weight:bold;
+}
+.lr-p2{
+	color:#3d3d3d;
+	padding-top:14px;
+	padding-left:20px;
+}
+.nu1{
+	color:#6e6e6e;
+	font-size:14px;
+}
+.nu2{
+	color:#6e6e6e;
+	font-size:12px;
+}
+.nui{
+	padding-left:30px;
+}
+.l1-num{
+	margin-left:20px;
+	padding-top:28px;
+	/*border:1px solid greenyellow;*/
+	height:20px;
+	width:200px;
+}
+.l1-num img{
+	vertical-align:middle;
+}
+.l2{
+	margin-top:30px;
+}
+
+.b-right{
+	overflow:hidden;
+	float:right;
+	margin-left:30px;
+	padding-top:30px;
+}
+.b-right p:hover{
+	color:#050505;
+	text-decoration:underline;
+}
+.b-left p:hover{
+	color:#050505;
+	text-decoration:underline;
+}
+.l1-i img:hover{
+	border:2px solid white;
+}
+.c-tu{
+	height:569px;
+	overflow:hidden;
+}
+/*.ym{
+	height:72px;
+	width:2000px
+}*/
+.ym-m{
+	height:72px;
+	width:1000px;
+	/*margin:0 auto;*/
+	/*text-align:center;*/
+	font-size:12px;
+	color:#6e6e6e;
+	padding-top:34px;
+}
+.ym-m span{
+	display:block;
+	/*font-size:12px;
+	color:#6e6e6e;*/
+	
+}
+.ym-s1{
+	float:left;
+}
+/*.ym-s2{
+	float:r;
+}*/
+.ul{
+	list-style-position:none ;
+	width:300px;
+	height:16px;
+}
+.ul li{
+	float:left;
+	
+	
+}
+.yj{
+	width:300px;
+	height:16px;
+	margin:0 auto;
+}
+.y1{
+	width:30px;
+	/*height:10px;*/
+	text-align:center;
+}
+.y2{
+	background-color:#6e6e6e;
+	color:white;
+}
+.yy{
+	
+}
+.ul li:hover{
+	font-weight:bold;
+}
+.ul li{
+	cursor:pointer;
+}
+
+
+/*foot-style*/
+.foot{
+	/*width:2000px;*/
+	height:236px;
+	background:#023c4d;
+}
+
+.foot-bottom{
+	height:56px;
+	/*width:2000px;*/
+	border-top:1px solid #ffffff;
+	background:#023c4d;
+	text-align:center;
+	line-height:56px;
+	color:#d0d0d0;
+	font-size:14px;
+}
+
+/*foot-middle-style*/
+.foot-middle{
+	padding-bottom:20px;
+	width:1002px;
+	/*background:pink;*/
+	overflow:hidden;
+}
+.about a, .help a, .int a{
+	color:white;
+	display:block;
+	padding-top:20px;
+	font-size:14.53px;
+}
+.about dl{
+	padding-left:103px;
+	padding-top:20px;
+}
+.help dl, .int dl{
+	padding-left:80px;
+	padding-top:20px;
+}
+.about, .help, .int{
+	float:left;
+}
+dl dt{
+	color:white;
+	font-size:18px;	
+}
+.tp{
+	padding-top:20px;
+}
+.zixun{
+	float:right;
+	/*/padding-top:20px;*/
+	padding-right:100px;
+	color:white;
+	
+}
+.call{
+	font-weight:bold;
+	font-size:28px;
+	
+}
+.zixun a{
+	color:#023c4d;
+}
+.zixun p{
+	padding-top:18px;
+}
+
+.zaixian a{
+	background:white;
+	border-radius:5px;
+	font-size:14px;
+	padding:4px 10px;
+}

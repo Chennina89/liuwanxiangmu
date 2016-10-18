@@ -1,0 +1,464 @@
+.all{
+	/*width:2000px;*/
+/*	height:928px;*/
+	/*background:burlywood;*/
+	color:#3c3c3c;
+}
+/*top-style*/
+.top{
+	/*width:2000px;*/
+	/*height:115px;*/
+	border-bottom:4px solid #176fbb;
+	overflow:hidden;
+}
+/*top-middle-style*/
+.top-middle{
+/*	height:115px;*/
+	width:1002px;
+/*	background:blanchedalmond;*/
+	font-size:14px;
+}
+.top-middle, .cont-middle, .foot-middle{
+	margin:0 auto;
+}
+.m-logo{
+	float:left;
+	padding:14px 0 0 10px;
+	color:#3c3c3c;
+}
+.m-login{
+	float:right;
+	color:#3c3c3c;
+	padding:9px 20px 0 0;
+}
+.m-login img{
+	vertical-align:middle;
+	padding-left:6px
+}
+.m-login .xingli{
+	padding-left:10px;
+}
+.m-login .d1{
+	padding:0 10px 0 10px;
+	border-left:1px solid #3c3c3c;
+	
+}
+.m-login input{
+	width:152px;
+	height:26px;
+	
+}
+.search{
+	display:block;
+	float:right;
+	height:28px;
+	width:28px;
+	background:white;
+	border:1px solid #3c3c3c;
+	border-bottom-right-radius:5px;
+	border-top-right-radius:5px ;
+}
+.search img{
+	/*vertical-align:bottom;*/
+	padding-top:4px;
+}
+.d2{
+	border-right:1px solid #3c3c3c;
+}
+.s1{
+	color:#ffa000;
+	/*font-size:14px;*/
+}
+.m-bottom{
+	float:left;
+	height:20px;
+	width:670px;
+	margin-top:50px;
+	margin-left:56px;
+	margin-bottom:6px;
+}
+.nav ul li a{
+	padding-left:36px;
+	font-size:18px;
+}
+.nav ul li a:hover{
+	font-weight:bold;
+	color:#176fbb;
+	
+}
+.nav, .m-bottom img{
+	float:left;
+}
+.nav ul li{
+	display:inline;
+}
+/*cont-style*/
+.cont{
+	/*width:2000px;*/
+/*	height:1156px;*/
+	/*background:paleturquoise;*/
+	/*overflow:hidden;*/
+	/*margin-bottom:30px;*/
+	/*height:3135px;*/
+}
+.cont-top1{
+	height:55px;
+	/*width:2000px;*/
+}
+.cont-middle{
+	width:1000px;
+	height:55px;
+	margin:0 auto;
+	line-height:55px;
+}
+.cont-middle a:hover{
+	font-weight:bold;
+	color:#ffa000;
+}
+.cont-middle a{
+	font-size:14px;
+}
+
+.ggt{
+	height:173px;
+	/*width:2000px;*/
+}
+.ggt-b{
+	
+	margin:0 auto;
+	width:1000px;
+	height:112px;
+	background:url(../img/darengg.png) -59px -122px;
+	position:relative;
+}
+.ggt-x{
+	height:144px;
+	width:1000px;
+	margin:0 auto;
+	overflow:hidden;
+	position:absolute;
+	top:50px;
+	left:20px;
+}
+.ggt-r{
+	float:left;
+	height:100px;
+	width:100px;
+	border:2px solid white;
+	background:url(../img/tx.png) no-repeat;
+	
+	
+	
+	
+}
+.ggt-p{
+	height:103px;
+	float:left;
+	font-size:18px;
+	/*background:greenyellow;*/
+	/*padding-left:*/
+	padding-left:20px;
+}
+.ggt-p p{
+	font-size:18px;
+}
+.ggt-1{
+	color:white;
+	display:block;
+	padding-top:18px;
+}
+.ggt-2{
+	padding-top:37px;
+}
+.yj-xia{
+	height:3134px;
+	width:1000px;
+	/*border:1px solid #c8c8c8;*/
+	margin:0 auto;
+	overflow:hidden;
+}
+.x-left{
+	height:3134px;
+	width:700px;
+/*	background:peachpuff;*/
+	float:left;
+}
+.xxx{
+	margin-top:20px;
+}
+.xx1{
+	height:494px;
+	width:700px;
+	/*background:paleturquoise*/
+	border:1px solid #c8c8c8;
+}
+#xx1{
+	padding:20px;
+}
+
+.xx1-p{
+	/*height:38px;*/
+	line-height:38px;
+	overflow:hidden;
+	/*text-align:center;*/
+}
+.xx1-p p{
+	display:block;
+}
+#xp1{
+	float:left;
+}
+#xp2{
+	float:right;
+	padding-top:5px;
+}
+.x1p{
+	font-size:18px;
+}
+#xp2 img{
+	vertical-align:middle;
+	padding-left:20px;
+}
+.x1s{
+	color:#6e6e6e;
+}
+.xx1-t{
+	height:235px;
+	overflow:hidden;
+}
+.xx1-l{
+	height:235px;
+	width:335px;
+	float:left;
+	background:url(../img/shuiche.png);
+}
+.xx1-r{
+	float:right;
+	height:233px;
+	width:292px;
+	border-bottom:1px solid #c8c8c8;
+	border-top:1px solid #c8c8c8;
+}
+.xx1-rp{
+	font-weight:bold;
+}
+.xx1-r p{
+	padding-top:20px;
+}
+.xx1-q{
+	float:left;
+}
+.xx1-qq{
+	width:285px;
+	height:26px;
+	line-height:26px;
+	overflow:hidden;
+	padding-top:10px;
+}
+.xx1-s{
+	text-decoration:line-through;
+}
+.xx1-q span{
+	color:#cc0000;
+	font-size:28px;
+}
+
+.xx1-a{
+	height:25px;
+	width:105px;
+	background:#ffa000;
+	border-radius:5px;
+	text-align:center;
+	float:right;
+	/*padding-left:64px;*/
+	line-height:25px;
+}
+.xx1-a a{
+	font-size:14px;
+	color:white;
+	
+}
+.xx1-a:hover{
+	background:#e89e22;
+}
+.xx1-fly{
+	width:652px;
+	/*height:55px;*/
+	line-height:55px;
+}
+.xx1-fly img{
+	float:left;
+	margin-top:12px;
+}
+.xx1-fly span{
+	float:right;
+}
+
+.xx1-b{
+	height:120px;
+}
+.xx1-b ul{
+	float:left;
+}
+.xx1-li1{
+	padding-left:44px;
+}
+.xx1-li{
+	padding-left:30px;
+}
+.xx1-b li{
+	padding-top:2px;
+}
+.xx1-b ul li a{
+	font-size:14px;
+	color:#6e6e6e;
+}
+.x-right{
+	height:690px;
+	width:270px;
+	float:right;
+	
+}
+.xr-1{
+	width:270px;
+	height:336px;
+	background:url(../img/zaishou.png);
+}
+.xr-2{
+	margin-top:20px;
+	width:270px;
+	height:336px;
+	background:url(../img/sqy.png);
+}
+.ym-m{
+	height:72px;
+	width:700px;
+	/*margin:0 auto;*/
+	/*text-align:center;*/
+	font-size:12px;
+	color:#6e6e6e;
+	padding-top:20px;
+	padding-bottom:30px;
+}
+.ym-m span{
+	display:block;
+	/*font-size:12px;
+	color:#6e6e6e;*/
+	
+}
+.ym-s1{
+	float:left;
+}
+/*.ym-s2{
+	float:r;
+}*/
+.ul{
+	list-style-position:none ;
+	width:300px;
+	height:16px;
+}
+.ul li{
+	float:left;
+	
+	
+}
+.yj{
+	width:300px;
+	height:16px;
+	margin:0 auto;
+}
+.y1{
+	width:30px;
+	/*height:10px;*/
+	text-align:center;
+}
+.y2{
+	background-color:#6e6e6e;
+	color:white;
+}
+.yy{
+	
+}
+.ul li:hover{
+	font-weight:bold;
+}
+.ul li{
+	cursor:pointer;
+}
+
+
+
+/*foot-style*/
+.foot{
+	/*width:2000px;*/
+	height:236px;
+	background:#023c4d;
+}
+
+.foot-bottom{
+	height:56px;
+/*	width:2000px;*/
+	border-top:1px solid #ffffff;
+	background:#023c4d;
+	text-align:center;
+	line-height:56px;
+	color:#d0d0d0;
+	font-size:14px;
+}
+
+/*foot-middle-style*/
+.foot-middle{
+	padding-bottom:20px;
+	width:1002px;
+	/*background:pink;*/
+	overflow:hidden;
+}
+.about a, .help a, .int a{
+	color:white;
+	display:block;
+	padding-top:20px;
+	font-size:14.53px;
+}
+.about dl{
+	padding-left:103px;
+	padding-top:20px;
+}
+.help dl, .int dl{
+	padding-left:80px;
+	padding-top:20px;
+}
+.about, .help, .int{
+	float:left;
+}
+dl dt{
+	color:white;
+	font-size:18px;	
+}
+.tp{
+	padding-top:20px;
+}
+.zixun{
+	float:right;
+	/*/padding-top:20px;*/
+	padding-right:100px;
+	color:white;
+	
+}
+.call{
+	font-weight:bold;
+	font-size:28px;
+	
+}
+.zixun a{
+	color:#023c4d;
+}
+.zixun p{
+	padding-top:18px;
+}
+
+.zaixian a{
+	background:white;
+	border-radius:5px;
+	font-size:14px;
+	padding:4px 10px;
+}

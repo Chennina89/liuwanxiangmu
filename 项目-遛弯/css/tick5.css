@@ -1,0 +1,212 @@
+.clear
+{
+	clear:both;
+	height:0;
+	overflow:hidden;
+}
+.content
+{
+	background:#d2d2d2;
+	margin-top:20px;
+}
+.content1
+{
+	width:1000px;
+	margin:0 auto;
+}
+.ceng1
+{
+	
+	width:613px;
+	background:url(../img/pingpu.png) 0 0 repeat-x;
+	float:left;
+	
+}
+.ceng2
+{
+	width:613px;
+	background:url(../img/xiangyou.png) 0 0 no-repeat;
+}
+.ceng3
+{
+	width:613px;
+	background:url(../img/xiangyou1.png) 193px 0 no-repeat;
+}
+.ceng4
+{
+	width:613px;
+	background:url(../img/xiangyou1.png) 383px 0 no-repeat;
+}
+.ceng5,.rig
+{
+	padding:5px 0;
+}
+.ceng5
+{
+	width:613px;
+	background:url(../img/xiangyou2.png) 581px 0 no-repeat;
+	word-spacing:163px;
+	position:relative;
+}
+.qr,.sc,.rig
+{
+	font:16px "微软雅黑";
+	color:#fff;
+}
+.qr
+{
+	margin-left:96px;
+}
+.one
+{
+	position:absolute;
+	left:68px;
+	top:6px;
+}
+.two
+{
+	position:absolute;
+	left:261px;
+	top:6px;
+}
+.three
+{
+	position:absolute;
+	left:455px;
+	top:6px;
+}
+.right
+{
+	float:left;
+	width:240px;
+	background:url(../img/xiangyou3.png) 160px 0 no-repeat;
+}
+.rig
+{
+	width:130px;
+	padding-left:62px;
+	background:url(../img/for.png) 35px center no-repeat;
+}
+.middle
+{
+	width:999px;
+	margin:0 auto;
+	border:1px solid #3c3c3c;
+	margin-top:19px;
+}
+.md1,.md2,.md3,.md5
+{
+	width:956px;
+	margin-left:20px;
+	padding:17px 0;
+}
+.md1
+{
+	border-bottom:1px dashed #6e6e6e;
+}
+.lef1,.lef2
+{
+	padding-right:35px;
+}
+.lef1
+{
+	font:16px "微软雅黑";
+	color:#3c3c3c;	
+}
+.rig1,.dd,.dc,.qc
+{
+	font:12px "微软雅黑";
+}
+.rig1
+{
+	color:#868686;
+}
+.dd,.dc,.qc
+{
+	color:#3c3c3c;
+}
+.mon,.tt
+{
+	font:16px "微软雅黑";
+	color:#3c3c3c;
+}
+.md2
+{
+	overflow:hidden;
+	border-bottom:1px solid #6e6e6e;
+}
+.lef2,.rig2
+{
+	float:left;
+}
+.lef2
+{
+	padding-left:17px;
+}
+.hang
+{
+	font:12px "微软雅黑";
+	color:#6e6e6e;
+}
+.tt
+{
+	margin-top:19px;
+}
+.card
+{
+	font:14px "微软雅黑";
+	color:#3c3c3c;
+	width:98px;
+	height:39px;
+	margin-left:0;
+	background:#fff;
+	border:1px solid #aaaaaa;
+}
+.md4
+{
+	width:956px;
+	margin-left:20px;
+}
+.butt
+{
+	overflow:hidden;
+}
+#xy
+{
+	background:#b5b5b5;
+	float:left;
+}
+#thrid
+{
+	float:left;
+}
+#check
+{
+	float:left;
+}
+.are
+{
+	border:1px solid #aaaaaa;
+	width:955px;
+	height:239px;
+}
+.md5
+{
+	text-align:right;
+}
+.back
+{
+	font:12px "微软雅黑";
+	color:#ffa000;
+}
+.now
+{
+	background:#ffa000;
+	font:16px "微软雅黑";
+	color:#fff;
+	border:0;
+	padding:10px 35px;
+	border-radius:5px;
+	margin-left:29px;
+	cursor: pointer;
+}

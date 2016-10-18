@@ -1,0 +1,282 @@
+#lf1{
+	width: 1000px;
+	font-size: 12px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+#lf2{
+	overflow: hidden;
+	width: 1000px;
+	margin: 20px auto;
+}
+#lf3{
+	float: left;
+}
+#lf4{
+	float: right;
+}
+#lf5{
+	overflow: hidden;
+	padding-bottom: 10px;
+	border-bottom: 1px solid gray;
+	width: 658px;
+}
+#lf6{
+	float: left;
+	font-size: 18px;
+	font-weight: bold;
+}
+#lf7{
+	float: right;
+}
+#lf7 img{
+	vertical-align: middle;
+}
+.lf8{
+	padding-right: 10px;
+	font-size: 12px;
+}
+#lf9{
+	font-size: 16px;
+	font-weight: bold;
+	padding-top: 12px;
+}
+#lf10{
+	vertical-align: middle;
+	padding-right: 10px;
+}
+#lf11,#lf12{
+	font-size: 16px;
+	text-indent: 32px;
+	width: 638px;
+	text-align: justify;
+}
+#lf11{
+	padding-top: 12px;
+}
+#lf13{
+	font-size: 16px;
+	padding-top: 18px;
+}
+#lf13 a{
+    color: #2ea3f8;
+}
+#lf14{
+	font-size: 18px;
+}
+#lf15{
+	float: right;
+	width: 659px;
+	overflow: hidden;
+	border-bottom: 1px solid gray;
+	padding-top: 18px;
+	padding-bottom: 3px;
+}
+#lf16,#lf18{
+	float: right;
+	margin-right: 15px;
+	border: 1px solid gray;
+	border-radius: 5px;
+	font-size: 12px;
+	padding:3px 6px;
+}
+#lf16 a,#lf18 a{
+    color: black;
+}
+.lf17{
+	vertical-align: bottom;
+}
+#lf19,#lf20{
+    background: red;
+    color: white;
+    padding:8px 0 8px 15px;
+    font-size: 18px;
+    margin-top: 30px;
+}
+#lf19{
+    float: left;
+    width: 682px;
+}
+#lf20{
+    float: right;
+    width: 255px;
+}
+#lf21{
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 20px;
+}
+#lf22{
+    float: left;
+    overflow: hidden;
+    width: 680px;
+    padding-left: 17px;
+}
+.lf23{
+    float: left;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+}
+.lf23 p{
+    padding-top: 7px;
+}
+#lf24{
+    float: right;
+    width: 590px;
+    line-height: 100px;
+    text-align: center;
+    border: 1px solid gray;
+}
+#lf24 a{
+    color: #ffa000;
+    text-decoration: underline;
+}
+.lf25{
+    padding:5px 0 15px 0;
+    text-align: right;
+    font-size: 12px;
+}
+.lf26{
+    overflow: hidden;
+    padding-top: 18px;
+}
+.lf27{
+    overflow: hidden;
+}
+.lf28{
+    width: 80px;
+    line-height: 24px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    float: right;
+    text-align: center;
+    background: #5ab4f5;
+}
+.lf29{
+    float: right;
+    width: 590px;
+    line-height: 20px;
+    padding-bottom: 33px;
+}
+.lf30{
+    float: right;
+    width: 590px;
+    border-top: 1px dashed gray;
+    border-bottom: 1px dashed gray;
+    padding: 3px 0;
+    overflow: hidden;
+}
+.lf31{
+    float: left;
+}
+.lf32{
+    float: right;
+    vertical-align: middle;
+}
+.lf33{
+    float: right;
+    color: black;
+    padding-right: 25px;
+    padding-left: 8px;
+}
+.lf34{
+    color: #279bef;
+    float: right;
+}
+#lf35{
+    padding: 18px 0 0 89px;
+}
+.lf36{
+    overflow: hidden;
+}
+.lf37{
+    float:left;
+    text-align: center;
+    width: 51px;
+    font-size: 12px;
+}
+.lf37 p{
+    padding-top: 6px;
+    font-weight: bold;
+}
+.lf38{
+    width: 520px;
+    float: right;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.lf39{
+    width: 520px;
+    float: right;
+    line-height: 20px;
+}
+.lf40{
+    padding:5px 0 15px 71px;
+}
+.lf40 a{
+    padding-left: 10px;
+    color: #2a9ff3;
+}
+#lf41{
+    width: 588px;
+    height: 60px;
+    resize: none;
+}
+#lf42{
+    padding:18px 0 18px;
+    text-align: center;
+}
+.lf43,.lf45,.lf49,.lf51{
+    color: #6e6e6e;
+}
+.lf44{
+    padding-left: 13px;
+}
+.lf45{
+    padding:0 4px;
+}
+.lf47{
+    color: white;
+    background: #6e6e6e;
+    padding: 0 5px;
+    margin: 0 10px;
+}
+.lf49{
+    padding:0 4px;
+}
+.lf50{
+    padding-right: 13px;
+}
+#lf52{
+    float: right;
+    border: 1px solid gray;
+    margin-top: 18px;
+    padding: 0 0 18px 18px;
+}
+.lf53{
+    overflow: hidden;
+    width: 251px;
+    padding-top: 30px;
+}
+.lf54{
+    float: left;
+}
+.lf55{
+    float: left;
+    padding:0 0 25px 10px;
+    font-size: 13px;
+}
+.lf56{
+    float: left;
+    font-size: 12px;
+    padding-left: 55px;
+}
+.lf56 img{
+    vertical-align: middle;
+}
+.lf57{
+    padding-right: 5px;
+}

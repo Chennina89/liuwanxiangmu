@@ -1,0 +1,44 @@
+*{margin: 0;padding: 0;}
+a{font-family: '微软雅黑';}
+.fl{float: left;}
+.fr{float: right;}
+.topbar{border-bottom: 4px solid #176FBB;}
+.top{
+	width: 1071px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.top1{width: 175px;}
+.top1 img{margin-top: 14px;}
+.top2{
+	width:896px;
+	overflow: hidden;
+}
+.top3{
+	width: 751px;
+	font-size: 18px;
+	padding-top: 16px;
+	padding-bottom: 19px;
+	padding-right: 70px;
+}
+
+.top3 span,.top3 a,.top3 img
+{
+	margin-right: 13px;
+	float: right;
+	font:14px "微软雅黑";
+}
+.top3 a{color:black;}
+.top4{
+	width: 896px;
+	padding-bottom: 9px;
+	padding-top: 20px;
+}
+.top4 a{
+	color: #454545;
+	font:20px "微软雅黑";
+	margin-right:41px; 
+}	
+#a1{color: #3D84C4;}
+.top4 img{margin-right: 38px;}
+/*头部结束*/

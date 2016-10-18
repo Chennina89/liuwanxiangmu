@@ -1,0 +1,77 @@
+.shead{border-bottom: 1px solid black;}
+.sshead{width: 970px;margin:0 auto;}
+.sleft{width: 147px;height: 97px;background: url(../img/bj.png) 0 0 no-repeat;float:left;margin-top: 14px;padding-bottom: 1px;}
+.sr1{color: #ffa000;font-size: 14px;}
+.sr2{width: 154px;height:26px;}
+.sr3{border-top-right-radius: 5px;border-bottom-right-radius: 5px;width: 28px;height:30px;background: url(../img/bj.png) -265px -32px no-repeat;padding-bottom:10px;border:1px solid #ccc;}
+.sright{float:right;margin-top: 22px;word-spacing:5px;}
+.sshead a{text-decoration:none;font-size: 14px;color: black;}
+.sright img{vertical-align:middle;}
+.sright .sxl{padding-bottom: 10px;}
+.sshead p{float: left;word-spacing: 37px;margin-left: 56px;margin-top:28px;}
+.xiugaitou a{font-size: 18px;}
+.four{height: 4px;;background-color: #176fbb;}
+.clear{height: 0px;clear: both;overflow: hidden;}
+/*头部结束*/
+.first{width: 1000px;margin:0 auto;padding-top: 20px;}
+.first a{color:#3c3c3c;font-size: 14px;margin-left: 8px;}
+/*<!-- 中间开始 -->*/
+.dakuai{width: 1000px;border:1px solid black;margin: 20px auto;}
+.sdk1{width: 958px;margin: 0 auto;overflow: hidden;border-bottom: 1px solid #6e6e6e;}
+.sdk11{width: 545px;float: left;}
+.sdk12{width: 413px;float: right;}
+.dingdan{width: 545px;border-bottom:1px dashed #6e6e6e;margin-top: 20px;}
+.dingdan p{margin-left: 16px;font-size:16px;font-weight: bold;padding-bottom:4px;}
+.dingdan p span{margin-left:30px;font-weight: normal;font-size: 14px;color: #6e6e6e}
+.dingdan1{width: 545px;border-bottom:1px dashed #6e6e6e;line-height: 39px;}
+.dingdan1 p{font-size:16px;font-weight: bold;}
+.dingdan1 p span{font-weight: normal;color: #6e6e6e}
+.spa1{margin-left:30px;font-size: 14px;}
+.spa2{margin-left:56px;font-size: 14px;}
+.qian{margin-left: 16px;font-size:16px;font-weight: bold;margin-top: 10px;padding-bottom:12px;}
+.qian .qian1{margin-left:30px;font-weight: normal;color: #6e6e6e;font-size: 14px;}
+.xinzeng{width: 106px;line-height: 37px;background-color:#ffa000;text-align:center;margin: 46px auto;border-radius:14%;}
+.xinzeng a{color: white;font-size: 16px;}
+.twokuai{width: 958px;;margin: 0 auto;margin-top: 24px;overflow:hidden;}
+.twokuai1{width: 541px;float: left;}
+.twokuai2{width: 387px;float: right;border:1px solid black;}
+.twokuai1 h3{font-size: 16px;}
+.qc1{margin-top: 18px;}
+.qc2{margin-left: 14px;}
+.qc21{margin-left: 30px;}
+.qc11{margin-top: 18px;border-bottom: 1px solid #d2d2d2;width:541px;padding-bottom: 20px;}
+.qfd{width: 542px;margin-top:10px;}
+.kongji{width: 334px;height:15px;border-bottom: 1px dashed black;float: left;}
+.schengren{float: left;padding:1px 0px;}
+.kongji1{float: left;}
+#chengqilai{padding-bottom:34px;}
+/*下方右边第二块*/
+.xuanze{line-height: 38px;background-color: #d2d2d2;text-indent:16px;}
+.xuanze1{width: 344px;margin: 0 auto;margin-top: 20px;border-bottom:1px dashed #6e6e6e;overflow: hidden;}
+.chengkai{float: left;padding-bottom:15px;}
+.xuanze1 img{width:156px;height:108px;}
+.xiezi{width:187px;float: right;}
+.sx1{margin-left: 35px;margin-top: 32px;}
+.sx2{margin-left: 45px;}
+.xuanze2,.xuanze3{margin-left: 20px;}
+.xuanze2{margin-top: 20px;}
+.xuanze3{margin-top: 17px;padding-bottom:51px;}
+/*底部开始*/
+.sbottom{background-color: #023c4d;border-bottom: 1px solid white;}
+.ssb1{width: 806px;margin: 0 auto;overflow: hidden;}
+.ssb2{width: 85px;padding-top:22px;padding-bottom: 22px;float: left;}
+.ssb2 a{text-decoration: none;color: white;}
+.ssa2{font-size: 18px;}  
+.ssa3{margin-top: 18px;}
+.ssb4{width: 85px;padding:22px 0px;float: left;margin-left: 67px;}
+.ssb4 a{text-decoration: none;color: white;}
+.ssb11{margin-top: 10px;}
+.ssb5{width:182px;float: right;color: white;padding:22px 0px;}
+.ssc11{font-size:28px;}
+.ssc12,.ssc13{font-size: 18px; }
+.ssc14{width: 129px;text-align: center;line-height: 25px;background-color: white;}
+.ssc15{text-decoration: none;color: #59727c}
+.ssc12,.ssc13,.ssc14{margin-top: 17px;}
+.sdd1{color: #d0d0d0;background-color: #023c4d;text-align: center;line-height: 58px;}
+.clear{clear: both;}
+.sdd1 a{color: white}

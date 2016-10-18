@@ -1,0 +1,55 @@
+.topbar{height:117px;
+border-bottom: 4px solid #176FBB;}
+.fl{float: left;}
+.fr{float: right;}
+.top{width: 1000px;
+	height: 117px;
+	margin: 0 auto;
+overflow: hidden;}
+.le{width: 200px;
+	height: 117px;
+	overflow: hidden;
+	background: url(../img/liuwan.png) 10px 15px no-repeat;}
+.ri{width:586px;
+	padding-bottom: 5px;
+/*height:64px;*/
+overflow: hidden;
+padding-top: 16px;
+/*padding-top: 20px;*/}
+.ri1{width: 664px;
+	padding-top: 5px;
+	padding-bottom: 4px;
+	font: 18px '微软雅黑';
+	margin-top: 10px;
+}
+.wo{width: 374px;
+	height: 43px;}
+	.wo1{width: 184px;
+		height: 43px;}
+.a11{color: #494949;}
+.ri1 .aa1{color: #494949;
+margin-right: 38px;}
+.sp1{width: 16px;
+height: 22px;
+display: inline-block;
+vertical-align: middle;
+background:url(../img/dianhua.png)0 0 no-repeat;
+margin-right: 13px;}
+.sp2{color: #FFC476;
+font: 14px "微软雅黑";}
+.sp3,.sp4,.sp5{
+	font: 14px "微软雅黑";
+color: #585858;}
+.sear{width: 150px;
+height: 27px;}
+.sear1{width: 26px;
+height: 27px;}
+.sp6{width: 28px;
+	height: 28px;
+	vertical-align: middle;
+display: inline-block;
+background:url(../img/he.png)2px 0 no-repeat;}
+.con{height: 2000px;
+}
+.sp3,.po,.sp6,.po1{margin-right: 12px;}
+/*头部结束*/

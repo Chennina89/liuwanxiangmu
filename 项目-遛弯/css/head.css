@@ -1,0 +1,78 @@
+.head
+{
+	border-bottom:4px solid #176fbb;
+}
+.head1
+{
+	width:1000px;
+	margin:0 auto;
+	background:url(../img/logo.png) 9px 14px no-repeat;	
+	padding-bottom:9px;
+	overflow:hidden;
+	position:relative;
+	height:113px;
+}
+.h1
+{
+	margin-top:15px;
+	position:relative;
+	position:absolute;
+	left:426px;
+	top:0;
+}
+.dh
+{
+	font:14px "微软雅黑";
+	color:#ffa726;
+}
+.aa
+{
+	font:14px "微软雅黑";
+	color:#505050;
+	text-decoration:none;
+	margin-left:15px;
+}
+#xl{
+	margin-left:9px;
+}
+.dht
+{
+	vertical-align:middle;
+}
+.ip1
+{
+	width:152px;
+	height:26px;
+	border:0;
+	border:1px solid #3c3c3c;
+	margin-left:15px;
+}
+.xlt
+{
+	vertical-align:middle;
+	margin-left:14px;
+}
+.ip2
+{
+	width:26px;
+	height:28px;
+	border:0;
+	border:1px solid #3c3c3c;
+	background:url(../img/sousou.png) center center no-repeat;
+	position:absolute;
+	left:525px;
+	top:0px;
+}
+.h2
+{
+	word-spacing:30px;
+	position:absolute;
+	left:196px;
+	top:83px;
+}
+.ban
+{
+	text-decoration:none;
+	font:16px "微软雅黑";
+	color:#505050;
+}

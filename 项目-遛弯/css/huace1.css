@@ -1,0 +1,216 @@
+.topbar{height:117px;
+border-bottom: 4px solid #176FBB;}
+.fl{float: left;}
+.fr{float: right;}
+.top{width: 1000px;
+	height: 117px;
+	margin: 0 auto;
+overflow: hidden;}
+.le{width: 200px;
+	height: 117px;
+	overflow: hidden;
+	background: url(../img/liuwan.png) 10px 15px no-repeat;}
+.ri{width:586px;
+	padding-bottom: 5px;
+/*height:64px;*/
+overflow: hidden;
+padding-top: 16px;
+/*padding-top: 20px;*/}
+.ri1{width: 664px;
+	padding-top: 5px;
+	padding-bottom: 4px;
+	font: 18px '微软雅黑';
+	margin-top: 10px;
+}
+.wo{width: 374px;
+	height: 43px;}
+	.wo1{width: 184px;
+		height: 43px;}
+.a11{color: #494949;}
+.ri1 .aa1{color: #494949;
+margin-right: 38px;}
+.sp1{width: 16px;
+height: 22px;
+display: inline-block;
+vertical-align: middle;
+background:url(../img/dianhua.png)0 0 no-repeat;
+margin-right: 13px;}
+.sp2{color: #FFC476;
+font: 14px "微软雅黑";}
+.sp3,.sp4,.sp5{
+	font: 14px "微软雅黑";
+color: #585858;}
+.sear{width: 150px;
+height: 27px;}
+.sear1{width: 26px;
+height: 27px;}
+.sp6{width: 28px;
+	height: 28px;
+	vertical-align: middle;
+display: inline-block;
+background:url(../img/he.png)2px 0 no-repeat;}
+.con{height: 2000px;
+}
+.sp3,.po,.sp6,.po1{margin-right: 12px;}
+.cen-top{/*height: 53px;*/
+}
+.cen-top1{width: 1000px;
+	padding-top: 21px;
+	padding-bottom:13px; 
+margin:0 auto;}
+.cen-top1 a{color: #BEBEBE;
+font: 14px "微软雅黑";
+}
+.cen-top2{height: 350px;
+	background: url(../img/datus.png)0 0 no-repeat;
+overflow: hidden;
+position: relative;}
+.cen-top3{
+	width:203px;
+	height: 99px;
+	position: absolute;
+	left: 420px;
+	top: 120px; }
+#spp1,#spp3{font:16px "微软雅黑";
+color: #FFFFFF;
+}	
+#spp2{font:50px "微软雅黑";
+color: #FFFFFF;}
+
+.cen{
+	width:1000px;
+	/*height: 2000px;*/
+margin: 0 auto;
+margin-top: 28px;}
+.cen1{height: 40px;
+overflow: hidden;
+border-bottom: 1px solid #51B23E;}
+.cen11{width: 70px;
+padding-left: 30px;
+padding-top: 8px;
+padding-bottom: 11px;
+
+}
+.search{width: 85px;
+	padding-left: 15px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+border: none;
+border-radius: 5px;}
+.cen11,.search{background: #51B23E;
+font:16px "微软雅黑";
+color: #FFFFFF;}
+.cen2{width: 1000px;
+height: 1000px;
+overflow: hidden;
+margin-top: 29px;}
+.cen21{width: 315px;
+height: 217px;
+margin-left: 5px;}
+.cen21{
+position:relative;
+/*border-right: 4px solid #BFBFBF;
+*/
+}
+.cen22{
+	width:317px;
+	height: 217px; 
+	position: absolute;
+	top: 16px;
+	left:9px;
+	/*background: blue;*/
+	border-right: 4px solid #DCDCDC;
+	border-bottom: 4px solid #BFBFBF;
+}
+.cen24{width: 315px;
+height: 217px;
+/*background: pink;*/
+position: absolute;
+left: 6px;
+top: 11px;
+border-right: 3px solid #BFBFBF;
+	border-bottom: 3px solid #BFBFBF;}
+.cen23{/*background:green;*/
+		position: absolute;
+		left: 5px;
+		top: 5px;
+		width: 313px;
+		height: 220px;
+		border :1px solid #8BB58B;
+	}
+.jj{width: 313px;
+height: 48px;
+position: absolute;
+bottom: 0;
+background: #4E5158;
+opacity: 0.7;
+overflow: hidden;}
+.jj1{position: absolute;
+bottom: 0;
+font: 12px "微软雅黑";
+color: #EFEFEF;
+margin-left: }
+.jj3{
+width: 26px;
+height: 30px;
+display: inline-block;
+background: url(../img/xin.png) 5px  16px no-repeat;}
+.jj4,.jj6{
+font: 12px "微软雅黑";
+color:#F3F3F4;
+}
+.fp{width: 145px;
+position: absolute;
+bottom: 4px;
+right: 0;
+
+}
+.jj2{position: absolute;
+right: 87px;
+bottom: 27px;
+font: 12px "微软雅黑";
+color: #EFEFEF;
+}
+.jj span{color:#EFEFEF;}
+.jj5{
+width: 20px;
+height: 30px;
+display: inline-block;
+background: url(../img/duan.png) 0 15px  no-repeat;
+margin-left: 15px;
+}
+.px{
+width: 36px;
+height: 36px;
+border-radius: 50%;
+position: absolute;
+bottom: 33px;
+left: 22px;
+}
+.yn,.yn1,.yn3,.yn2{width: 1000px;
+height: 236px;}
+.gb{margin-left: 12px;
+	margin-right: 12px;}
+.yn,.yn1{margin-bottom: 20px;}
+.yn3{margin-top: 20px;}
+.cen3{width: 1000px;
+/*height: 64px;*/
+font: 12px "微软雅黑";
+margin-top: 24px;}
+.cen4{width: 234px;
+	padding-top: 22px;
+	padding-bottom: 22px;
+	padding-left: 12px;
+/*height: 64px;*/
+margin: 0 auto;
+}
+#cen5{
+display: inline-block;
+width: 22px;
+/*height: 18px;*/
+background: #6E6E6E;
+color: #F7F7F7;
+padding-top: 2px;
+padding-bottom: 2px;
+padding-left: 8px;}
+.cen4 span{margin-right: 6px;}
